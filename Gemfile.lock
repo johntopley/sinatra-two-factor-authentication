@@ -6,7 +6,7 @@ GEM
     bcrypt (3.1.12)
     mustermann (1.0.3)
     public_suffix (3.0.3)
-    rack (2.0.8)
+    rack (2.2.3)
     rack-protection (2.0.4)
       rack
     rotp (4.0.2)
